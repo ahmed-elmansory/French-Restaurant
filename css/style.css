@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clr {
+    clear: both;
+}
+
+.header {
+    background-image: url(../img/home.jpg);
+    height: 100vh;
+}
+
+.header .nav-bar {
+    background-color: rgba(0, 0, 0, 0.785);
+    padding: 10px 20px;
+}
+
+.header .nav-bar .logo {
+    width: 80px;
+    float: left;
+}
+
+.header .nav-bar .logo img {
+    width: 100%;
+}
+
+.header .nav-bar .menu {
+    list-style-type: none;
+    float: right;
+}
+
+.header .nav-bar .menu li {
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+.header .nav-bar .menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header .main-header {
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+.header .main-header h1 {
+    font-size: 45px;
+    padding: 15px 0;
+}
+
+.header .main-header p {
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+.header .main-header button {
+    padding: 15px 20px;
+    border: none;
+    background-color: #fff;
+}
+
+.header .main-header .btn {
+    background-color: #c1a471;
+}
+
+.chef-about .img-chef {
+    padding: 40px 0px;
+    width: 40%;
+    float: left;
+}
+
+.chef-about .img-chef img {
+    width: 100%;
+}
+
+.chef-about .chef-cont {
+    padding: 40px 20px;
+    float: right;
+    width: 40%;
+    text-align: center;
+}
+
+.chef-about .chef-cont h4 {
+    color: #c1a471;
+    padding: 20px 0;
+}
+
+.chef-about .chef-cont h2 {
+    padding: 10px 0;
+}
+
+.chef-about .chef-cont p {
+    line-height: 30px;
+}
+
+.layer-img {
+    height: 50vh;
+    background-image: url(../img/drew-coffman-1872.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.gallry {
+    padding: 40px 0;
+}
+
+.gallry .item {
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+
+.gallry .item img {
+    width: 70%;
+    border-radius: 50%;
+}
+
+.gallry .item h3 {
+    padding: 15px 0;
+}
+
+.gallry .item .bord {
+    margin: auto;
+    width: 40%;
+    height: 2px;
+    background-color: #c1a471;
+}
+
+.gallry .item p {
+    padding: 10px 10px;
+}
