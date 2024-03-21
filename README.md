@@ -1,2 +1,4 @@
 # French-Restaurant
-French Restaurant / by html and css
+French Restaurant / by HTML and CSS
+design by HTML, CSS 
+div, flote & clear, display, 
